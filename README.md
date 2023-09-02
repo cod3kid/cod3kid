@@ -17,7 +17,7 @@
 
 <!-- - 📄 Know about my experiences [Resume](link to resume) -->
 
-- ⚡ Fun fact **I think I put my heart and my soul into my work, and have lost my mind in the process.**
+- ⚡ Fun fact **I think I put my heart and my soul into my code, and have lost my mind in the process.**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
