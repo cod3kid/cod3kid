@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [dev.to](https://dev.to)
 
-- 💬 Ask me about **React, JavaScript, Node JS, React Native, Docker, AWS**
+- 💬 Ask me about **React, JavaScript, Golang, Node JS, React Native, Docker, AWS**
 
 <!-- - 📫 How to reach me **@gmail.com** -->
 
